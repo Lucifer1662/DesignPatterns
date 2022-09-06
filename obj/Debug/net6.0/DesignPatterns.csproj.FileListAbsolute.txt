@@ -1,0 +1,15 @@
+C:\Projects\DesignPatterns\bin\Debug\net6.0\DesignPatterns.exe
+C:\Projects\DesignPatterns\bin\Debug\net6.0\DesignPatterns.deps.json
+C:\Projects\DesignPatterns\bin\Debug\net6.0\DesignPatterns.runtimeconfig.json
+C:\Projects\DesignPatterns\bin\Debug\net6.0\DesignPatterns.dll
+C:\Projects\DesignPatterns\bin\Debug\net6.0\DesignPatterns.pdb
+C:\Projects\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.AssemblyReference.cache
+C:\Projects\DesignPatterns\obj\Debug\net6.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Projects\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfo.cs
+C:\Projects\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Projects\DesignPatterns\obj\Debug\net6.0\DesignPatterns.dll
+C:\Projects\DesignPatterns\obj\Debug\net6.0\refint\DesignPatterns.dll
+C:\Projects\DesignPatterns\obj\Debug\net6.0\DesignPatterns.pdb
+C:\Projects\DesignPatterns\obj\Debug\net6.0\DesignPatterns.genruntimeconfig.cache
+C:\Projects\DesignPatterns\obj\Debug\net6.0\ref\DesignPatterns.dll
